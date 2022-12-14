@@ -1,0 +1,25 @@
+#banner{
+  background-color: lightgrey;
+}
+#nav{
+  background-color: lightblue;
+}
+
+div.img1{
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.img1{
+  background: linear-gradient(rgba(1,1,1,1), rgba(0,0,0,0)), url(../resources/1.jpeg) center/cover fixed no-repeat;
+}
+
+div.test {
+  width: 100vw;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+
