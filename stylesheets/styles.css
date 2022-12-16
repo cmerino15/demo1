@@ -13,7 +13,7 @@ div.img1{
 }
 
 .img1{
-  background: linear-gradient(rgba(1,1,1,1), rgba(0,0,0,0)), url(../resources/1.jpeg) center/cover fixed no-repeat;
+  background: linear-gradient(rgba(1,1,1,1), rgba(0,0,0,0)), url(../resources/stocks.jpeg) center/cover fixed no-repeat;
 }
 
 div.test {
@@ -25,6 +25,11 @@ div.test {
 
 ul {
   margin-bottom: 0rem;
+
+}
+
+h1{
+  font-family: serif;
 
 }
 

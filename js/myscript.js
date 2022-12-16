@@ -13,3 +13,12 @@ function ban(){
   }
   }
 }
+
+
+
+function inv(){
+
+  var img = document.getElementById('inv');
+  img.src = "resources/anditsgone.jpg";
+
+}
