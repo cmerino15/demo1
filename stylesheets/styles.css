@@ -117,12 +117,12 @@ div.img1 {
 
 .img1 {
   background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)),
-    url(../images/matrix.jpeg) center/cover fixed no-repeat;
+    url(../resources/matrix.jpeg) center/cover fixed no-repeat;
 }
 
 .img2 {
   background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1)),
-    url(../images/universe.jpg) center/cover fixed no-repeat;
+    url(../resources/universe.jpg) center/cover fixed no-repeat;
 }
 .img2 > ul > li > a {
   color: pink;
@@ -171,12 +171,12 @@ div.img1 {
 }
 .img3 {
   background: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.95)),
-    url(../images/stars.jpeg) center/cover fixed no-repeat;
+    url(../resources/stars.jpeg) center/cover fixed no-repeat;
 }
 
 .img4 {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 1)),
-    url(../images/board.jpeg) center/cover fixed no-repeat;
+    url(../resources/board.jpeg) center/cover fixed no-repeat;
 }
 
 .codebox {
