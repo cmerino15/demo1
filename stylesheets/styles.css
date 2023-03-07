@@ -93,6 +93,18 @@ div.img4 {
   font-size: 40px;
 }
 
+div.goals{
+  color: pink;
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: 17px;
+
+}
+
+
 div.img1 {
   color: pink;
   display: flexbox;
